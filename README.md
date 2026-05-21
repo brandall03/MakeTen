@@ -170,4 +170,4 @@ Future versions could add:
 
 ## License
 
-No license has been specified.
+MIT license has been specified.
